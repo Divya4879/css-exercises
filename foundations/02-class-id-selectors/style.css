@@ -1,0 +1,23 @@
+.odd-numbered
+{
+    background-color: hsla(0, 50% , 50% , 0.5);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#second
+{
+    color:#0000FF;
+    font-size: 36px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#third{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: rgba(0, 255, 0 , 0.4);
+    font-size: 24px;
+    font-weight: 700;
+    font-family:cursive;
+}
